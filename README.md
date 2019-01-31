@@ -1,42 +1,25 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 28 React Props and State
 
-### Author: Student/Group Name
+### Author: Fletcher LaRue
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/asdFletcher/28-props-and-state)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+### Code Sandbox links
+* Assignmet 1 part 1: https://codesandbox.io/s/429rr2klo7
+* Assignmet 1 part 2: https://codesandbox.io/s/oo8573lo6
+* Assignmet 2 part 1: https://codesandbox.io/s/j2mqj87785
+* Assignmet 2 part 2: https://codesandbox.io/s/5mwmnx2zk4
+* Assignmet 3 part 1: https://codesandbox.io/s/yj9pnj8r4v
+* Assignmet 3 part 2: https://codesandbox.io/s/jj8k08o275
 
 #### UML
 Link to an image of the UML for your application and response to events
+
+![assignment 1 part 2](/assets/a1p2.png)
+![assignment 2 part 2](/assets/a2p2.png)
+![assignment 3 part 2](/assets/a3p2.png)
+
